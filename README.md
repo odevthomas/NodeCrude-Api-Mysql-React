@@ -1,4 +1,5 @@
 # NodeCrud API
+![Uploading generated_image_1_1739738155942.png…]()
 
 ## 📋 Descrição
 
